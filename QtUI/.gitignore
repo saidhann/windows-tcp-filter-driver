@@ -1,0 +1,71 @@
+# ===== Build folders =====
+build/
+build-*/
+debug/
+release/
+out/
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# ===== Qt Creator =====
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.creator
+*.creator.user
+*.creator.user.*
+
+# ===== Qt generated files =====
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# ===== Object / compiled files =====
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+
+# ===== Debug / symbols =====
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# ===== Logs =====
+*.log
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDEs =====
+.vscode/
+.idea/
+
+# ===== Temporary files =====
+*~
+*.swp
+*.swo
+
+# ===== Qt build system =====
+.qmake.stash
+*.qmake.cache
+*.qmake.stash
+
+# ===== Resource cache =====
+*.rcc
