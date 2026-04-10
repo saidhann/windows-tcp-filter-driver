@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpInterception", "TcpInterception\TcpInterception.vcxproj", "{FAAF4891-2DDC-406E-8AB0-985886405D80}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComunicationLibrary", "ComunicationLibrary\ComunicationLibrary.vcxproj", "{99C44064-727F-46D1-AFE2-284F4570643A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TcpInterception", "TcpInterception.vcxproj", "{FAAF4891-2DDC-406E-8AB0-985886405D80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,14 +25,6 @@ Global
 		{FAAF4891-2DDC-406E-8AB0-985886405D80}.Release|x86.ActiveCfg = Release|Win32
 		{FAAF4891-2DDC-406E-8AB0-985886405D80}.Release|x86.Build.0 = Release|Win32
 		{FAAF4891-2DDC-406E-8AB0-985886405D80}.Release|x86.Deploy.0 = Release|Win32
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Debug|x64.ActiveCfg = Debug|x64
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Debug|x64.Build.0 = Debug|x64
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Debug|x86.ActiveCfg = Debug|Win32
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Debug|x86.Build.0 = Debug|Win32
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Release|x64.ActiveCfg = Release|x64
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Release|x64.Build.0 = Release|x64
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Release|x86.ActiveCfg = Release|Win32
-		{99C44064-727F-46D1-AFE2-284F4570643A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
